@@ -1,7 +1,10 @@
+//Pregunta 4  Parcial 1 CI3641
+//Elaborado por Roberto Gamboa 16-10394
+
 #include "Quaternion.cpp"
 #include "gtest/gtest.h"
 
-// Programa que realiza pruebas sobre la implementacion de Cuaternones hallada en el archivo Quaternion.cpp
+// Programa que realiza pruebas sobre la implementacion de Cuaterniones hallada en el archivo Quaternion.cpp
 // Para realizar las pruebas se emplea la herramienta Google Test
 // Y para medir la cobertura se usa la herramienta gcov
 // Se compila el codigo con el siguiente comando:
@@ -10,7 +13,7 @@
 // ejecutamos las pruebas con ./tests
 // Luego ejecutamos gcov tests.cpp -m
 // y se muestra el reporte de cobertura por la terminal
-// en el reporte se muestra la cobertura de varios archvos de la libreria que se usa para las pruebas
+// en el reporte se muestra la cobertura de varios archivos de la libreria que se usa para las pruebas
 // y al final del reporte se muestra la de Quaternion.cpp
 
 // Test suma

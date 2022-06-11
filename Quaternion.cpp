@@ -1,4 +1,5 @@
-
+//Pregunta 4  Parcial 1 CI3641
+//Elaborado por Roberto Gamboa 16-10394
 #include <iostream>
 #include <math.h>
 
@@ -6,7 +7,7 @@
 // Tal que dados a, b, c, d ∈ R
 // Quaternion(a,b,c,d) =  a + bi + cj + dk
 // Se sobrecargan los operadores + * - ~ & == para trabajar con los cuaterniones y no realizar llamadas adicionales a funciones
-//Implementado por Roberto Gamboa, 16-10394
+
 
 class Quaternion {
 
